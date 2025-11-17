@@ -1,0 +1,56 @@
+﻿@model Category
+
+<div class="card border-primary  mb-3 align-content-center" style="max-width: 50rem;">
+    <div class="card-header text-center text-light bg-primary "><h2> Update Category</h2></div>
+    <div class="card-body">
+
+        <form method="post">
+
+            <input asp-for="category_Id" hidden />
+
+            <div asp-validation-summary="All"></div>
+            <div class= "  col-sm-10 align-content-center">
+                <label asp-for="Name" class="form-label">Name</label>
+                <input asp-for="Name" class="form-control" id="exampleInputName" placeholder="Enter Category Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class=" col-sm-10 align-content-center">
+                <label asp-for="DisplayOrder" class="form-label mt-4">Display order</label>
+                <input asp-for="DisplayOrder" class="form-control" id="exampleInputDispalyorder" placeholder="Enter Display Order" autocomplete="off">
+                <span asp-validation-for="DisplayOrder" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="row mt-3">
+                <div class="col-6 col-md-4">
+                    <button type="submit" class="btn  btn-warning btn-outline-primary w-100">Update</button>
+
+                </div>
+                <div class="col-6 col-md-4">
+                    <a asp-controller="Category" asp-action="Index" class=" btn btn-outline-secondary w-100 "> Back </a>
+
+                </div>
+            </div>
+
+           
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+
+
+
+
+    
+
+
+
+
+
+
+

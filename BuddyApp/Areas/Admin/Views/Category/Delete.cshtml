@@ -1,0 +1,47 @@
+﻿@using Buddy.Models.Models
+@model Category
+
+<div class="card border-primary justify-content-center mb-5 " style=" max-width: 50rem;">
+    <div class="card-header text-center text-light bg-primary "><h2> Are you sure, You wanna delete?</h2> </div>
+    <div class="card-body">
+
+<form method="post">
+
+    <input asp-for="category_Id" hidden />
+  
+    <div class="col-sm-10">
+        <label asp-for="Name"  class="form-label mt-2">Name</label>
+        <input asp-for="Name" class="form-control" disabled id="exampleInputName" >
+       
+    </div>
+
+    <div class="col-sm-10">
+        <label asp-for="DisplayOrder" class="form-label mt-4">Display order</label>
+        <input asp-for="DisplayOrder"  disabled class="form-control " id="exampleInputDispalyorder" placeholder="Enter Display Order" autocomplete="off">
+      
+    </div>
+
+    <div> <br /> </div>
+            <div class="row mt-3">
+                <div class="col-6 col-md-4">
+                    <button type="submit" class="btn text-light btn-danger btn-outline-primary w-100"> Yes,Delete</button>
+
+                </div>
+                <div class="col-6 col-md-4">
+                    <a asp-controller="Category" asp-action="Index" class=" btn btn-outline-secondary w-100 "> Back </a>
+
+                </div>
+            </div>
+
+</form>
+
+
+
+</div>
+</div>
+
+
+
+
+
+

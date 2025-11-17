@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\SmoothScroll.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\SmoothScroll.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\script.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\script.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\plugins.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\plugins.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\modernizr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\modernizr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\css\\normalize.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\normalize.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 310,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\style.css",
+              "RelativeDocumentMoniker": "style.css",
+              "ToolTip": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\style.css",
+              "RelativeToolTip": "style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-10T02:16:16.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\readme.txt",
+              "RelativeDocumentMoniker": "readme.txt",
+              "ToolTip": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\readme.txt",
+              "RelativeToolTip": "readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-10T02:16:15.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmoothScroll.js",
+              "DocumentMoniker": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\SmoothScroll.js",
+              "RelativeDocumentMoniker": "js\\SmoothScroll.js",
+              "ToolTip": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\SmoothScroll.js",
+              "RelativeToolTip": "js\\SmoothScroll.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-10T02:16:13.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-10T02:16:11.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "script.min.js",
+              "DocumentMoniker": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\script.min.js",
+              "RelativeDocumentMoniker": "js\\script.min.js",
+              "ToolTip": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\script.min.js",
+              "RelativeToolTip": "js\\script.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-10T02:16:10.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "plugins.js",
+              "DocumentMoniker": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\plugins.js",
+              "RelativeDocumentMoniker": "js\\plugins.js",
+              "ToolTip": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\plugins.js",
+              "RelativeToolTip": "js\\plugins.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-10T02:16:03.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "modernizr.js",
+              "DocumentMoniker": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\modernizr.js",
+              "RelativeDocumentMoniker": "js\\modernizr.js",
+              "ToolTip": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\modernizr.js",
+              "RelativeToolTip": "js\\modernizr.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-10T02:16:00.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\jquery.min.js",
+              "RelativeDocumentMoniker": "js\\jquery.min.js",
+              "ToolTip": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\js\\jquery.min.js",
+              "RelativeToolTip": "js\\jquery.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-10T02:15:53.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "normalize.css",
+              "DocumentMoniker": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\css\\normalize.css",
+              "RelativeDocumentMoniker": "css\\normalize.css",
+              "ToolTip": "C:\\Users\\bvadi\\OneDrive\\Desktop\\kaira-1.0.0\\kaira-1.0.0\\css\\normalize.css",
+              "RelativeToolTip": "css\\normalize.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-10T02:15:45.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

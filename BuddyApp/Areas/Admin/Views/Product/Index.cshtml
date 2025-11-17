@@ -1,0 +1,161 @@
+﻿@using Buddy.Models.Models
+@using Buddy.Models.ViewModels
+
+@model List<Product>
+
+
+
+
+
+<div class="card  shadow" >
+    <div class="card-header text-center text-light bg-primary ">
+        <h3> Books List</h3>
+    </div>
+    <div class="card-body">
+
+        <div class="container align-content-lg-center ">
+
+            <div class="col-md-12 text-end">
+                <a asp-action="Upsert" asp-controller="Product" class="btn btn-primary">
+                    <i class="bi bi-plus-square"></i> Add Book
+                </a>
+                <a asp-action="Index" asp-area="Customer" asp-controller="Home" class="btn btn-primary">
+                    <i class="bi bi-house-door">Home</i>
+                </a>
+            </div>
+
+        </div>
+        <table id="mydata"  class="table table-hover" width="100%">
+            <thead>
+                <tr>
+                    <th>
+                        Name
+                    </th>
+
+                    <th>
+                        ISBN
+                    </th>
+                    <th>
+                        Author
+                    </th>
+
+                    <th>
+                        Price
+                    </th>
+                    <th>
+                        Category
+                    </th>
+
+
+                    <th>
+                        Options
+                    </th>
+
+                </tr>
+            </thead>
+            @foreach (var obj in Model.OrderBy(u => u.Name))
+            
+            {
+              
+                <thead>
+                    <tr>
+
+                   
+                    <td>
+                        @obj.Name
+                    </td>
+                <td>
+                        @obj.ISBN
+                </td>
+                <td>
+                        @obj.Author
+                    </td>
+                <td>
+                        @obj.Price
+                </td>
+                <td>
+                        @obj.Category.Name
+                </td>
+                <td>
+                    <a asp-area="Admin" asp-controller="Product" asp-action="Upsert" asp-route-id="@obj.Id" class="btn btn-warning text-light">
+                        <i class="bi bi-pencil-square"></i> Edit
+                    </a>
+                </td>
+                <td>
+                    <a asp-area="Admin" asp-controller="Product" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger text-light">
+                        <i class="bi bi-trash"></i> Delete
+                    </a>
+
+                </td>
+                    </tr>
+                </thead>
+            }
+
+        </table>
+    </div>
+</div>
+
+
+
+ <div class="container" role="group">
+    <div class="row">
+     @foreach (var obj in Model.OrderBy(u => u.Name))
+    {
+      <div class="col-md-4">
+        <div class="card border-0 shadow link-underline-opacity-75-hover  " style="max-width:22rem">
+
+        <div class="badge">HOT SALE</div>
+        <div class="card-img">
+            <div class="img">
+                            <img class="card-img" src=@obj.Imageurl alt="@obj.Name">
+                </div>
+
+                      
+        </div>
+        <div class="info">
+            <h2 class="title">@obj.Name</h2> 
+                        
+            <div class="feats">
+                <span class="feat">Author: @obj.Author</span>
+                 <span class="feat">@obj.Category.Name</span><br />
+                <span class="feat">ISBN:@obj.ISBN</span><br />
+                
+            </div>
+                        <div class="feats">
+                            <span class="feat">Price for 25 copies: $@obj.Price</span>
+                            <span class="feat">Price for 50 copies: $@obj.Price50</span>
+                            <span class="feat">Price for 100 copies: $@obj.price100</span>
+                        </div>
+            <div class="bottom">
+                <div class="price">
+                                <span class="new">$@obj.ListPrice</span> 
+                </div>
+               
+                                 
+                    <a asp-area="Admin" asp-controller="Product" asp-action="Upsert" asp-route-id="@obj.Id" class="btn btn-warning text-light">
+                      <i class="bi bi-pencil-square"></i> Edit
+                      </a>
+              
+               
+
+                  <a asp-area="Admin" asp-controller="Product" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger text-light">
+                     <i class="bi bi-trash"></i> Delete
+                  </a>
+               
+                                                                                              
+            </div>
+           
+        </div>
+    </div>
+      </div>
+    }
+    </div>
+</div>
+         
+ 
+
+@section Scripts {
+  
+
+   
+}
