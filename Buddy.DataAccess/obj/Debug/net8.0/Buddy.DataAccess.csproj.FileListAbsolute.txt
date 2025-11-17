@@ -1,0 +1,17 @@
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\bin\Debug\net8.0\Buddy.DataAccess.deps.json
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\bin\Debug\net8.0\Buddy.DataAccess.runtimeconfig.json
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\bin\Debug\net8.0\Buddy.DataAccess.dll
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\bin\Debug\net8.0\Buddy.DataAccess.pdb
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\bin\Debug\net8.0\Buddy.Models.dll
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\bin\Debug\net8.0\Buddy.Models.pdb
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\obj\Debug\net8.0\Buddy.DataAccess.csproj.AssemblyReference.cache
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\obj\Debug\net8.0\Buddy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\obj\Debug\net8.0\Buddy.DataAccess.AssemblyInfoInputs.cache
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\obj\Debug\net8.0\Buddy.DataAccess.AssemblyInfo.cs
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\obj\Debug\net8.0\Buddy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\obj\Debug\net8.0\Buddy.Da.52ACC204.Up2Date
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\obj\Debug\net8.0\Buddy.DataAccess.dll
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\obj\Debug\net8.0\refint\Buddy.DataAccess.dll
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\obj\Debug\net8.0\Buddy.DataAccess.pdb
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\obj\Debug\net8.0\Buddy.DataAccess.genruntimeconfig.cache
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.DataAccess\obj\Debug\net8.0\ref\Buddy.DataAccess.dll
