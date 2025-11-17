@@ -1,0 +1,12 @@
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.Models\bin\Debug\net8.0\Buddy.Models.deps.json
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.Models\bin\Debug\net8.0\Buddy.Models.dll
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.Models\bin\Debug\net8.0\Buddy.Models.pdb
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.Models\obj\Debug\net8.0\Buddy.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.Models\obj\Debug\net8.0\Buddy.Models.AssemblyInfoInputs.cache
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.Models\obj\Debug\net8.0\Buddy.Models.AssemblyInfo.cs
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.Models\obj\Debug\net8.0\Buddy.Models.csproj.CoreCompileInputs.cache
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.Models\obj\Debug\net8.0\Buddy.Models.dll
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.Models\obj\Debug\net8.0\refint\Buddy.Models.dll
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.Models\obj\Debug\net8.0\Buddy.Models.pdb
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.Models\obj\Debug\net8.0\ref\Buddy.Models.dll
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\Buddy.Models\obj\Debug\net8.0\Buddy.Models.csproj.AssemblyReference.cache
