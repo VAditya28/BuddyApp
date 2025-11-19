@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sK4yNnJ9w3Ll1GRNwAP3iBkMwmPQxA+Z7MR2TURpXBA=",
+  "Hash": "P416PrGuscZFY2mgREb4eXUFoR3Rw+zlAuxCTfT/mXI=",
   "Source": "BuddyApp",
   "BasePath": "_content/BuddyApp",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "msb8y5t47h",
-      "Integrity": "SqxUaraz/O3fJVl692FnMvUd+V/pVdrL+FMvqEVOPLs=",
+      "Fingerprint": "4i50ehgy4s",
+      "Integrity": "JLJ66+vB1vKx382pSUnu0TCA4JFeM+uoFrwADzbQOus=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BuddyApp.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "msb8y5t47h",
-      "Integrity": "SqxUaraz/O3fJVl692FnMvUd+V/pVdrL+FMvqEVOPLs=",
+      "Fingerprint": "4i50ehgy4s",
+      "Integrity": "JLJ66+vB1vKx382pSUnu0TCA4JFeM+uoFrwADzbQOus=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BuddyApp.bundle.scp.css"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4rtyoxvcxr",
-      "Integrity": "IPdZ1QKtbQd380mRNtvDISXtJOun+Xer3ujfjg9X6b4=",
+      "Fingerprint": "tegkszpatj",
+      "Integrity": "61d/nBhsh5j0PHYGHpt7s5OvpP1OAliElHk1yvJlrSo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2152,8 +2152,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uykalcjoy7",
-      "Integrity": "WmLsN3tVnK225eUrOEH2fJtmXB/V1bijlu3Jke3YVn0=",
+      "Fingerprint": "b15kbrd5mo",
+      "Integrity": "f51YrUgO4XMzORi9ElpOUR/pudzoJfPX+CKwPHbNtqM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -2194,8 +2194,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "Fingerprint": "ijwsfu53ob",
+      "Integrity": "QrXxJqQ9L/vaqHPtCyMNJq+9l0IafiVoQiMnNwS6hME=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
@@ -2236,8 +2236,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ve6x09088i",
-      "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
+      "Fingerprint": "o44giktg3d",
+      "Integrity": "6GqdyayfsxF/vm+vcV2hMvOpo0ciOCQBNjfkfX2X8l8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
@@ -2278,8 +2278,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9b9oa1qrmt",
-      "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
+      "Fingerprint": "9zypsuld6d",
+      "Integrity": "VeEueDLj1MR+tH3egFyC6/GKLV6tiBjxuXDmlMmemkM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
@@ -3337,6 +3337,96 @@
   ],
   "Endpoints": [
     {
+      "Route": "BuddyApp.4i50ehgy4s.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BuddyApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JLJ66+vB1vKx382pSUnu0TCA4JFeM+uoFrwADzbQOus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Nov 2025 22:49:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4i50ehgy4s"
+        },
+        {
+          "Name": "label",
+          "Value": "BuddyApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JLJ66+vB1vKx382pSUnu0TCA4JFeM+uoFrwADzbQOus="
+        }
+      ]
+    },
+    {
+      "Route": "BuddyApp.4i50ehgy4s.styles.css",
+      "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BuddyApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JLJ66+vB1vKx382pSUnu0TCA4JFeM+uoFrwADzbQOus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Nov 2025 22:49:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4i50ehgy4s"
+        },
+        {
+          "Name": "label",
+          "Value": "BuddyApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JLJ66+vB1vKx382pSUnu0TCA4JFeM+uoFrwADzbQOus="
+        }
+      ]
+    },
+    {
       "Route": "BuddyApp.bundle.scp.css",
       "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BuddyApp.bundle.scp.css",
       "Selectors": [],
@@ -3347,7 +3437,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1139"
+          "Value": "1003"
         },
         {
           "Name": "Content-Type",
@@ -3355,11 +3445,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SqxUaraz/O3fJVl692FnMvUd+V/pVdrL+FMvqEVOPLs=\""
+          "Value": "\"JLJ66+vB1vKx382pSUnu0TCA4JFeM+uoFrwADzbQOus=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Nov 2025 03:32:36 GMT"
+          "Value": "Mon, 17 Nov 2025 22:49:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3369,97 +3459,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SqxUaraz/O3fJVl692FnMvUd+V/pVdrL+FMvqEVOPLs="
-        }
-      ]
-    },
-    {
-      "Route": "BuddyApp.msb8y5t47h.bundle.scp.css",
-      "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BuddyApp.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1139"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SqxUaraz/O3fJVl692FnMvUd+V/pVdrL+FMvqEVOPLs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 10 Nov 2025 03:32:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "msb8y5t47h"
-        },
-        {
-          "Name": "label",
-          "Value": "BuddyApp.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SqxUaraz/O3fJVl692FnMvUd+V/pVdrL+FMvqEVOPLs="
-        }
-      ]
-    },
-    {
-      "Route": "BuddyApp.msb8y5t47h.styles.css",
-      "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BuddyApp.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1139"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SqxUaraz/O3fJVl692FnMvUd+V/pVdrL+FMvqEVOPLs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 10 Nov 2025 03:32:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "msb8y5t47h"
-        },
-        {
-          "Name": "label",
-          "Value": "BuddyApp.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SqxUaraz/O3fJVl692FnMvUd+V/pVdrL+FMvqEVOPLs="
+          "Value": "sha256-JLJ66+vB1vKx382pSUnu0TCA4JFeM+uoFrwADzbQOus="
         }
       ]
     },
@@ -3474,7 +3474,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1139"
+          "Value": "1003"
         },
         {
           "Name": "Content-Type",
@@ -3482,11 +3482,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SqxUaraz/O3fJVl692FnMvUd+V/pVdrL+FMvqEVOPLs=\""
+          "Value": "\"JLJ66+vB1vKx382pSUnu0TCA4JFeM+uoFrwADzbQOus=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Nov 2025 03:32:36 GMT"
+          "Value": "Mon, 17 Nov 2025 22:49:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3496,52 +3496,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SqxUaraz/O3fJVl692FnMvUd+V/pVdrL+FMvqEVOPLs="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.4rtyoxvcxr.css",
-      "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3839"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IPdZ1QKtbQd380mRNtvDISXtJOun+Xer3ujfjg9X6b4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 10 Nov 2025 03:19:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4rtyoxvcxr"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-IPdZ1QKtbQd380mRNtvDISXtJOun+Xer3ujfjg9X6b4="
+          "Value": "sha256-JLJ66+vB1vKx382pSUnu0TCA4JFeM+uoFrwADzbQOus="
         }
       ]
     },
@@ -3556,7 +3511,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3839"
+          "Value": "10140"
         },
         {
           "Name": "Content-Type",
@@ -3564,11 +3519,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IPdZ1QKtbQd380mRNtvDISXtJOun+Xer3ujfjg9X6b4=\""
+          "Value": "\"61d/nBhsh5j0PHYGHpt7s5OvpP1OAliElHk1yvJlrSo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Nov 2025 03:19:34 GMT"
+          "Value": "Tue, 18 Nov 2025 23:39:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3578,7 +3533,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IPdZ1QKtbQd380mRNtvDISXtJOun+Xer3ujfjg9X6b4="
+          "Value": "sha256-61d/nBhsh5j0PHYGHpt7s5OvpP1OAliElHk1yvJlrSo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.tegkszpatj.css",
+      "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"61d/nBhsh5j0PHYGHpt7s5OvpP1OAliElHk1yvJlrSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 23:39:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tegkszpatj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-61d/nBhsh5j0PHYGHpt7s5OvpP1OAliElHk1yvJlrSo="
         }
       ]
     },
@@ -11619,6 +11619,51 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.b15kbrd5mo.css",
+      "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f51YrUgO4XMzORi9ElpOUR/pudzoJfPX+CKwPHbNtqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 02:10:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b15kbrd5mo"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f51YrUgO4XMzORi9ElpOUR/pudzoJfPX+CKwPHbNtqM="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
@@ -11629,7 +11674,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "622497"
+          "Value": "311009"
         },
         {
           "Name": "Content-Type",
@@ -11637,11 +11682,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WmLsN3tVnK225eUrOEH2fJtmXB/V1bijlu3Jke3YVn0=\""
+          "Value": "\"f51YrUgO4XMzORi9ElpOUR/pudzoJfPX+CKwPHbNtqM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Nov 2025 03:25:21 GMT"
+          "Value": "Tue, 18 Nov 2025 02:10:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11651,7 +11696,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WmLsN3tVnK225eUrOEH2fJtmXB/V1bijlu3Jke3YVn0="
+          "Value": "sha256-f51YrUgO4XMzORi9ElpOUR/pudzoJfPX+CKwPHbNtqM="
         }
       ]
     },
@@ -11738,51 +11783,6 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 07 Oct 2025 23:26:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
@@ -11793,7 +11793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "305743"
         },
         {
           "Name": "Content-Type",
@@ -11801,11 +11801,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"QrXxJqQ9L/vaqHPtCyMNJq+9l0IafiVoQiMnNwS6hME=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Oct 2025 23:26:23 GMT"
+          "Value": "Tue, 18 Nov 2025 02:12:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11815,7 +11815,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-QrXxJqQ9L/vaqHPtCyMNJq+9l0IafiVoQiMnNwS6hME="
         }
       ]
     },
@@ -11902,6 +11902,51 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.ijwsfu53ob.css",
+      "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QrXxJqQ9L/vaqHPtCyMNJq+9l0IafiVoQiMnNwS6hME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 02:12:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ijwsfu53ob"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QrXxJqQ9L/vaqHPtCyMNJq+9l0IafiVoQiMnNwS6hME="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
@@ -11912,7 +11957,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "203803"
+          "Value": "310227"
         },
         {
           "Name": "Content-Type",
@@ -11920,11 +11965,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
+          "Value": "\"6GqdyayfsxF/vm+vcV2hMvOpo0ciOCQBNjfkfX2X8l8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Oct 2025 23:26:23 GMT"
+          "Value": "Tue, 18 Nov 2025 02:15:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11934,7 +11979,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
+          "Value": "sha256-6GqdyayfsxF/vm+vcV2hMvOpo0ciOCQBNjfkfX2X8l8="
         }
       ]
     },
@@ -12021,7 +12066,7 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9zypsuld6d.css",
       "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12031,7 +12076,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162825"
+          "Value": "305847"
         },
         {
           "Name": "Content-Type",
@@ -12039,11 +12084,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
+          "Value": "\"VeEueDLj1MR+tH3egFyC6/GKLV6tiBjxuXDmlMmemkM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Oct 2025 23:26:23 GMT"
+          "Value": "Tue, 18 Nov 2025 02:16:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12053,7 +12098,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9b9oa1qrmt"
+          "Value": "9zypsuld6d"
         },
         {
           "Name": "label",
@@ -12061,7 +12106,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
+          "Value": "sha256-VeEueDLj1MR+tH3egFyC6/GKLV6tiBjxuXDmlMmemkM="
         }
       ]
     },
@@ -12076,7 +12121,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162825"
+          "Value": "305847"
         },
         {
           "Name": "Content-Type",
@@ -12084,11 +12129,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
+          "Value": "\"VeEueDLj1MR+tH3egFyC6/GKLV6tiBjxuXDmlMmemkM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Oct 2025 23:26:23 GMT"
+          "Value": "Tue, 18 Nov 2025 02:16:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12098,7 +12143,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
+          "Value": "sha256-VeEueDLj1MR+tH3egFyC6/GKLV6tiBjxuXDmlMmemkM="
         }
       ]
     },
@@ -12185,7 +12230,7 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.o44giktg3d.css",
       "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12195,7 +12240,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "203803"
+          "Value": "310227"
         },
         {
           "Name": "Content-Type",
@@ -12203,11 +12248,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
+          "Value": "\"6GqdyayfsxF/vm+vcV2hMvOpo0ciOCQBNjfkfX2X8l8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Oct 2025 23:26:23 GMT"
+          "Value": "Tue, 18 Nov 2025 02:15:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12217,7 +12262,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ve6x09088i"
+          "Value": "o44giktg3d"
         },
         {
           "Name": "label",
@@ -12225,52 +12270,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.uykalcjoy7.css",
-      "AssetFile": "C:\\Users\\bvadi\\OneDrive\\Desktop\\BuddyApp\\BuddyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "622497"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WmLsN3tVnK225eUrOEH2fJtmXB/V1bijlu3Jke3YVn0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 10 Nov 2025 03:25:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uykalcjoy7"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WmLsN3tVnK225eUrOEH2fJtmXB/V1bijlu3Jke3YVn0="
+          "Value": "sha256-6GqdyayfsxF/vm+vcV2hMvOpo0ciOCQBNjfkfX2X8l8="
         }
       ]
     },

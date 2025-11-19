@@ -302,3 +302,4 @@ C:\Users\bvadi\OneDrive\Desktop\BuddyApp\BuddyApp\bin\Debug\net8.0\Newtonsoft.Js
 C:\Users\bvadi\OneDrive\Desktop\BuddyApp\BuddyApp\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\bvadi\OneDrive\Desktop\BuddyApp\BuddyApp\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 C:\Users\bvadi\OneDrive\Desktop\BuddyApp\BuddyApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\bvadi\OneDrive\Desktop\BuddyApp\BuddyApp\obj\Debug\net8.0\BuddyApp.sourcelink.json

@@ -1,15 +1,15 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
 .button-container-inline button {
@@ -19,53 +19,22 @@ html {
 
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
+}
+
+.container, .container-fluid {
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 100px;
+    background:white;
+    min-height: 150%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*productlist*/
-
-
-
-
-body {
-    background: linear-gradient(135deg, rgba(226,226,226,1) 0%,rgba(219,219,219,1) 50%,rgba(209,209,209,1) 50%,rgba(209,209,209,1) 50%,rgba(254,254,254,1) 100%) center/cover no-repeat;
-    min-height: 100vh
-}
-
+/*-----------------------------------------------------------------------*/
 .card {
     width: 1100px;
     background: #fff;
@@ -106,7 +75,7 @@ body {
 
 .img {
     height: 200px;
-    overflow:visible
+    overflow: visible
 }
 
     .img img {
@@ -225,7 +194,7 @@ body {
 
 @media (max-width:400px) {
     .card {
-        width: 90%
+        width: 150%
     }
 
     .title {
@@ -247,7 +216,286 @@ body {
     }
 
     .btn {
-        width: 100%;
+        width: 65%;
         justify-content: center
     }
 }
+
+
+
+
+
+
+.footer-14398 {
+    padding: 3rem  !important;
+    background: #000;
+    color: rgba(170,34,56,1);
+}
+
+    .footer-14398 .footer-site-logo {
+        color: #fff;
+        font-size: 26px;
+        font-weight: bold;
+        margin-bottom: 20px;
+        display: block;
+    }
+
+    .footer-14398 h3 {
+        color: #fff;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .footer-14398 .links li a {
+        color: #999;
+    }
+
+        .footer-14398 .links li a:hover {
+            color: #fff;
+        }
+
+    .footer-14398 .link-menu li a {
+        color: #fff;
+        padding: 10px;
+    }
+
+    .footer-14398 .social li a {
+        color: #ccc;
+        padding: 10px;
+    }
+
+    .footer-14398 .line {
+        border-top: 1px solid rgba(255,255,255,0.2);
+    }
+
+
+
+
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*product*/
+
+/* Columns */
+.left-column {
+    width: 65%;
+    position: relative;
+}
+
+.right-column {
+    width: 35%;
+    margin-top: 60px;
+}
+
+/* Left Column */
+.left-column img {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    transition: all 0.3s ease;
+}
+
+    .left-column img.active {
+        opacity: 1;
+    }
+
+
+/* Product Description */
+.product-description {
+    border-bottom: 1px solid #E1E8EE;
+    margin-bottom: 20px;
+}
+
+    .product-description span {
+        font-size: 12px;
+        color: #358ED7;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        text-decoration: none;
+    }
+
+    .product-description h1 {
+        font-weight: 300;
+        font-size: 52px;
+        color: #43484D;
+        letter-spacing: -2px;
+    }
+
+    .product-description p {
+        font-size: 16px;
+        font-weight: 300;
+        color: #86939E;
+        line-height: 24px;
+    }
+
+
+/* Product Color */
+.product-color {
+    margin-bottom: 30px;
+}
+
+.color-choose div {
+    display: inline-block;
+}
+
+.color-choose input[type="radio"] {
+    display: none;
+}
+
+    .color-choose input[type="radio"] + label span {
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        margin: -1px 4px 0 0;
+        vertical-align: middle;
+        cursor: pointer;
+        border-radius: 50%;
+        border: 2px solid #FFFFFF;
+        box-shadow: 0 1px 3px 0 rgba(0,0,0,0.33);
+    }
+
+    .color-choose input[type="radio"]#red + label span {
+        background-color: #C91524;
+    }
+
+    .color-choose input[type="radio"]#blue + label span {
+        background-color: #314780;
+    }
+
+    .color-choose input[type="radio"]#black + label span {
+        background-color: #323232;
+    }
+
+    .color-choose input[type="radio"]:checked + label span {
+        background-image: url(images/check-icn.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+
+/* Cable Configuration */
+.cable-choose {
+    margin-bottom: 20px;
+}
+
+    .cable-choose button {
+        border: 2px solid #E1E8EE;
+        border-radius: 6px;
+        padding: 13px 20px;
+        font-size: 14px;
+        color: #5E6977;
+        background-color: #fff;
+        cursor: pointer;
+        transition: all .5s;
+    }
+
+        .cable-choose button:hover,
+        .cable-choose button:active,
+        .cable-choose button:focus {
+            border: 2px solid #86939E;
+            outline: none;
+        }
+
+.cable-config {
+    border-bottom: 1px solid #E1E8EE;
+    margin-bottom: 20px;
+}
+
+    .cable-config a {
+        color: #358ED7;
+        text-decoration: none;
+        font-size: 12px;
+        position: relative;
+        margin: 10px 0;
+        display: inline-block;
+    }
+
+        .cable-config a:before {
+            content: "?";
+            height: 15px;
+            width: 15px;
+            border-radius: 50%;
+            border: 2px solid rgba(53, 142, 215, 0.5);
+            display: inline-block;
+            text-align: center;
+            line-height: 16px;
+            opacity: 0.5;
+            margin-right: 5px;
+        }
+
+/* Product Price */
+.product-price {
+    display: flex;
+    align-items: center;
+}
+
+    .product-price span {
+        font-size: 26px;
+        font-weight: 300;
+        color: #43474D;
+        margin-right: 20px;
+    }
+
+.cart-btn {
+    display: inline-block;
+    background-color: #7DC855;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 12px 30px;
+    transition: all .5s;
+}
+
+    .cart-btn:hover {
+        background-color: #64af3d;
+    }
+
+@media (max-width: 940px) {
+    .container
+
+{
+    flex-direction: column;
+    margin-top: 60px;
+}
+
+.left-column,
+.right-column {
+    width: 100%;
+}
+
+    .left-column img {
+        width: 300px;
+        right: 0;
+        top: -65px;
+        left: initial;
+    }
+
+}
+
+@media (max-width: 535px) {
+    .left-column img {
+        width: 220px;
+        top: -85px;
+    }
+}
+
+
+/*---------------------------------------------------------*/
+
+

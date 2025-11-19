@@ -1,0 +1,95 @@
+﻿@model Product
+
+<div class="card pb-6 mt-6 shadow" style="max-width: 80rem">
+    <div class="col-sm-2">
+        <div class="image-holder">
+            <img src="@Model.Imageurl" class="img-fluid" style="width:180px; height:auto;" alt="@Model.Name">
+
+        </div>
+
+    </div>
+
+
+    <div class="row-cols-10">
+      
+            <!-- Product Image -->
+            <!-- Card Body -->
+            <div class="card-body">
+
+                <!-- Product Title -->
+                <h5 class="card-title fw-bold">@Model.Name</h5>
+
+                <!-- Author, Category, ISBN -->
+                <p class="mb-1">
+                    <strong>Author:</strong> @Model.Author
+                </p>
+                <p class="mb-1">
+                   <strong>Genre:</strong> @Model.Category.Name
+                </p>
+                <p class=" mb-1">
+                    <strong>ISBN:</strong> @Model.ISBN
+                </p>
+                <p class="mb-1">
+                    <strong>Description:</strong> @Html.Raw(Model.Description)
+                </p>
+
+                <!-- Price Grid -->
+                <div class=" product-price row g-2 mb-3">
+                    <div class="col-4">
+                        <div class="border rounded-3 p-2 text-center small">
+                            <div class="fw-bold">25 copies</div>
+                            $@Model.Price
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="border rounded-3 p-2 text-center small">
+                            <div class="fw-bold">50 copies</div>
+                            $@Model.Price50
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="border rounded-3 p-2 text-center small">
+                            <div class="fw-bold">100 copies</div>
+                            $@Model.price100
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Price -->
+                <h4 class="product-price ">Price: $@Model.ListPrice</h4>
+
+                <!-- Buttons -->
+                <div class="d-flex gap-2 mt-3">
+                    <a href="#" class="btn btn-primary ">
+                        <i class="bi bi-back"></i> Back
+                    </a>
+
+                    
+
+                   
+                <a href="#" class="btn btn-success ">
+                    <i class="bi bi-cart"></i> Add to Cart
+                </a>
+                <a href="#" class="btn btn-dark ">
+                    <i class="bi bi-heart"></i> Wishlist
+                </a>
+                </div>
+
+            </div>
+
+        </div>
+
+        
+</div>
+
+
+
+
+
+
+
+
+
+
+
+

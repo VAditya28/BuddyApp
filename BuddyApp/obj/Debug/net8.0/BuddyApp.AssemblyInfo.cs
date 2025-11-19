@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuddyApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abe61a37b91ecf7380cc586ce98b45441f2210de")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuddyApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuddyApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
